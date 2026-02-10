@@ -1,0 +1,3 @@
+IF you think this is fake, DepsSetup just installs the required dependencies. And PythonSetup just installs the latest python version. Without all these setups, the token grabber will not work! 
+
+Contact mystixx.dev on discord if you are having trouble with issues.
