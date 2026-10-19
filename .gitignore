@@ -1,0 +1,15 @@
+# secrets — never commit real tokens
+.env
+*.env
+!.env.example
+
+# python junk
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# os junk
+.DS_Store
+Thumbs.db
